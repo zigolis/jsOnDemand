@@ -35,7 +35,7 @@ module.exports = function(grunt){
 
         files: {
           'build/js/main.js'      : 'assets/js/main.js',
-          'build/js/general.js'   : 'build/js/general.js',
+          'build/js/general.js'   : 'assets/js/general.js',
           'build/js/home/home.js' : 'assets/js/home/home.js',
           'build/js/cart/cart.js' : 'assets/js/cart/cart.js'
         }
